@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Lay-51943_B.brd.PcbDoc   6/6/2025  12:00:29 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP to BOTTOM
+ASCII Plated RoundHoles File : Lay-51943_B.brd-Plated.TXT
+ASCII Non-Plated RoundHoles File : Lay-51943_B.brd-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             1066      PTH        1802.59mm (70.97inch)
+T2      0.254mm (10mil)                                           Round             66        PTH        171.43mm (6.75inch)
+T3      1.016mm (40mil)                                           Round             6         PTH        60.10mm (2.37inch)
+T4      2.692mm (106mil)                                          Round             4         PTH        160.02mm (6.30inch)
+T5      0.848mm (33mil)                                           Round             2         NPTH       15.02mm (0.59inch)
+T6      1.699mm (67mil)                                           Round             4         NPTH       41.18mm (1.62inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1148
+
+Total Processing Time (hh:mm:ss) : 00:00:01

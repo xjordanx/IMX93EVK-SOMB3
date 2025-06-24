@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Lay-51943_B.brd.PcbDoc]
+   Generated File[Lay-51943_B.brd-Plated.TXT]
+   Generated File[Lay-51943_B.brd-NonPlated.TXT]
+   Generated File[Lay-51943_B.brd.LDP]
+   Generated File[Lay-51943_B.brd.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:00:30 PM On 6/6/2025

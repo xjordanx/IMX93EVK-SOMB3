@@ -1,0 +1,4 @@
+G04:AMPARAMS|DCode=36|XSize=0.0254mm|YSize=0.0254mm|CornerRadius=0mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=0.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=Octagon|*
+%AMOCTAGOND36*
+4,1,8,0.0127,-0.0064,0.0127,0.0064,0.0064,0.0127,-0.0064,0.0127,-0.0127,0.0064,-0.0127,-0.0064,-0.0064,-0.0127,0.0064,-0.0127,0.0127,-0.0064,0.0*
+%

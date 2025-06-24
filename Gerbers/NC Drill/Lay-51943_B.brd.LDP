@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\ECAD\DOCS\Altium\IMX93EVK-SOM\Lay-51943_B.brd.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=lay-51943_b.brd-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=lay-51943_b.brd-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

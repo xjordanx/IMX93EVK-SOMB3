@@ -1,0 +1,44 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Lay-51943_B.brd.GBR   6/6/2025  12:00:25 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                TOP                                     
+.G1                 L2_GND_1                                
+.G2                 L3_INT_1                                
+.G3                 L4_PWR                                  
+.G4                 L5_GND_2                                
+.GBL                BOTTOM                                  
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Board Outline                           
+.GM3                Top Courtyard                           
+.GM4                Top Assembly                            
+.GM5                Top Value                               
+.GM6                Bottom Value                            
+.GM7                Top Gold Plating                        
+.GM9                Top Component Center                    
+.GM10               Bottom Component Center                 
+.GM13               Top 3D Body                             
+.GM14               Bottom 3D Body                          
+.GM15               Fab Notes                               
+.GM19               Document                                
+.GM20               Reference                               
+.GM21               Bottom Courtyard                        
+.GM22               Bottom Assembly                         
+.GM23               Top Designator                          
+.GM24               Bottom Designator                       
+.GM25               Top Component Outline                   
+.GM26               Bottom Component Outline                
+.GM31               Patch_Top                               
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Lay-51943_B.brd.GBR   6/6/2025  12:00:17 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                TOP                                     
+.gbr                L2_GND_1                                
+.gbr                L3_INT_1                                
+.gbr                L4_PWR                                  
+.gbr                L5_GND_2                                
+.gbr                BOTTOM                                  
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
+.gbr                Bottom Designator                       
+.gbr                Top Assembly                            
+.gbr                Patch_Top                               
+.gbr                Bottom Courtyard                        
+.gbr                Reference                               
+.gbr                Bottom 3D Body                          
+.gbr                Document                                
+.gbr                Bottom Component Center                 
+.gbr                Board Outline                           
+.gbr                Top Courtyard                           
+.gbr                Bottom Assembly                         
+.gbr                Top Gold Plating                        
+.gbr                Fab Notes                               
+.gbr                Top Designator                          
+.gbr                Top 3D Body                             
+.gbr                Top Component Center                    
+.gbr                Bottom Value                            
+.gbr                Top Value                               
+.gbr                Bottom Component Outline                
+.gbr                Top Component Outline                   
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

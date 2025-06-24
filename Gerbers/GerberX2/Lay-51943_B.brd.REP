@@ -1,0 +1,825 @@
+*************************************************************
+FileName = Lay-51943_B.brd.GBR
+AutoAperture = True
+*************************************************************
+Generating : TOP
+      File : Lay-51943_B.brd_Copper_Signal_Top.gbr
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : L2_GND_1
+      File : Lay-51943_B.brd_Copper_Signal_1.gbr
+
+    Adding Layer      : L2_GND_1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D78
+    D79
+    D80
+    D81
+    D82
+*************************************************************
+
+*************************************************************
+Generating : L3_INT_1
+      File : Lay-51943_B.brd_Copper_Signal_2.gbr
+
+    Adding Layer      : L3_INT_1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+    D61
+    D63
+    D64
+    D65
+    D70
+    D71
+    D76
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+*************************************************************
+
+*************************************************************
+Generating : L4_PWR
+      File : Lay-51943_B.brd_Copper_Signal_3.gbr
+
+    Adding Layer      : L4_PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+    D64
+    D78
+    D79
+    D80
+    D81
+    D82
+*************************************************************
+
+*************************************************************
+Generating : L5_GND_2
+      File : Lay-51943_B.brd_Copper_Signal_4.gbr
+
+    Adding Layer      : L5_GND_2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D78
+    D79
+    D80
+    D81
+    D82
+*************************************************************
+
+*************************************************************
+Generating : BOTTOM
+      File : Lay-51943_B.brd_Copper_Signal_Bot.gbr
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D41
+    D50
+    D51
+    D52
+    D53
+    D55
+    D58
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D69
+    D70
+    D71
+    D73
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Lay-51943_B.brd_Pads_Bot.gbr
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D41
+    D50
+    D51
+    D52
+    D53
+    D55
+    D58
+    D77
+    D85
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Lay-51943_B.brd_Pads_Top.gbr
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Lay-51943_B.brd_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D41
+    D50
+    D51
+    D52
+    D53
+    D55
+    D58
+    D85
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Lay-51943_B.brd_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Lay-51943_B.brd_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D41
+    D50
+    D51
+    D52
+    D53
+    D55
+    D58
+    D77
+    D85
+    D86
+    D87
+    D88
+    D89
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Lay-51943_B.brd_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D91
+    D92
+    D94
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Lay-51943_B.brd_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D29
+    D30
+    D31
+    D33
+    D34
+    D35
+    D37
+    D38
+    D41
+    D42
+    D43
+    D44
+    D46
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Lay-51943_B.brd_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D77
+    D97
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Lay-51943_B.brd_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : Lay-51943_B.brd_Bottom_Designator.gbr
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+    D96
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Lay-51943_B.brd_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Patch_Top
+      File : Lay-51943_B.brd_Patch_Top.gbr
+
+    Adding Layer      : Patch_Top
+
+
+Used DCodes :
+    D95
+    D110
+    D111
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : Lay-51943_B.brd_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Reference
+      File : Lay-51943_B.brd_Reference.gbr
+
+    Adding Layer      : Reference
+
+
+Used DCodes :
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Lay-51943_B.brd_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Document
+      File : Lay-51943_B.brd_Document.gbr
+
+    Adding Layer      : Document
+
+
+Used DCodes :
+    D92
+    D94
+    D95
+    D108
+    D110
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : Lay-51943_B.brd_Bottom_Component_Center.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D91
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Lay-51943_B.brd_Board_Outline.gbr
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Lay-51943_B.brd_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D94
+    D108
+    D126
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Lay-51943_B.brd_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Top Gold Plating
+      File : Lay-51943_B.brd_Top_Gold_Plating.gbr
+
+    Adding Layer      : Top Gold Plating
+
+
+Used DCodes :
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Fab Notes
+      File : Lay-51943_B.brd_Fab_Notes.gbr
+
+    Adding Layer      : Fab Notes
+
+
+Used DCodes :
+    D94
+    D113
+    D125
+    D127
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : Lay-51943_B.brd_Top_Designator.gbr
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Lay-51943_B.brd_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Lay-51943_B.brd_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Bottom Value
+      File : Lay-51943_B.brd_Bottom_Value.gbr
+
+    Adding Layer      : Bottom Value
+
+
+Used DCodes :
+    D96
+    D106
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Top Value
+      File : Lay-51943_B.brd_Top_Value.gbr
+
+    Adding Layer      : Top Value
+
+
+Used DCodes :
+    D106
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : Lay-51943_B.brd_Bottom_Component_Outline.gbr
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Lay-51943_B.brd_Top_Component_Outline.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Lay-51943_B.brd_Profile.gbr
+
+
+Used DCodes :
+    D128
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Lay-51943_B.brd_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D129
+    D130
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Lay-51943_B.brd_PTH_Drill.gbr
+
+
+Used DCodes :
+    D131
+    D132
+    D133
+    D134
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Lay-51943_B.brd_Drawing_1.gbr
+
+    Adding Drill Pair : TOP-BOTTOM
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D91
+    D108
+    D123
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Lay-51943_B.brd_Drillmap_1.gbr
+
+    Adding Drill Pair : TOP-BOTTOM
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D91
+*************************************************************
+
