@@ -1,21 +1,19 @@
-MIT License
+Copyright © Benjamin Jordan, 2025
 
-Copyright (c) 2025 Ben Jordan
+This work contains a translated version of original reference design files that were made publicly available by [NXP Semiconductors](https://www.nxp.com) for use with the [i.MX93 EVK](https://www.nxp.com/design/design-center/development-boards-and-designs/i.MX93EVK). The original design and associated intellectual property remain the exclusive property of NXP Semiconductors and are used here solely for the purpose of interoperability, education, and convenience.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This translated dataset, including converted file formats, structure, and any additional modifications or annotations, is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Under the following terms:
+- **Attribution** — You must give appropriate credit to both Benjamin Jordan and NXP Semiconductors, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **No endorsement** — You must not imply any affiliation with or endorsement by NXP Semiconductors.
+
+Full license text available at:  
+https://creativecommons.org/licenses/by-nc/4.0/
+
+THE TRANSLATED FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. USE OF THESE FILES IS AT YOUR OWN RISK.
