@@ -1,5 +1,5 @@
 # IMX93EVK-SOMB3
-Design files for the NXP i.MX93EVK SOM board, Rev. 3B, in Altium Designer format.
+Design files for the NXP i.MX93EVK SOM board, Rev. 3B, in Altium Designer format. If you appreciate this or use these files, and benefit from the documentation including the information below, please [consider tipping](https://tiptopjar.com/xjordanx). This took a lot of late nights to get it working and to verify with real hardware.
 
 ## DISCLAIMER of Liability and Warranty
 NO WARRANTY IS PROVIDED EXPLICITLY OR IMPLIED WITH THIS DATA. USE IT AT YOUR OWN RISK.
@@ -26,3 +26,19 @@ This exact Altium Designer project, after translation from OrCAD + Allegro v17.4
 * Boot linux, interact via Debug serial (USB) console, enable the WiFi/BT adapter on the base-board, get an IP address, and login to the board via RSH over WiFi.
 
 I have not yet tested the LVDS display output. However, if the board boots with LPDDR4x, eMMC flash, and the PCIe WiFi working, I trust that the fabricator (through CircuitHub) did well enough on the other high-speed differential pairs.
+
+## ECAD Translation Tedium/Notes
+### Schematic and PCB Synchronized
+The original schematic was done in OrCAD, and the board in Allegro. Both these are translated and then put into a single Altium Designer project. The components on the board have had to have their "component links" updated to "reconnect" them to the schematic instances, and then without modifying the copper the PCB has to be updated to accept the auto-generated net names according to how Altium does it (not the same as OrCAD). This leads to mysterious instances where a net name was wrong or separated because the OrCAD manual junctions may have been removed during Altium's import or similar events, which take time to find and troubleshoot, with a lot of manual comparison of the originals in the Cadence Allegro X Free Viewer. 
+
+### Design Rules
+The original Allegro constraints can sort of be examined in the free viewer, but I mostly refer to the NXP i.MX93 Hardware Design Guide which essentially allowed me to make a very basic Altium Design Rules set for the board which would "pass". Since I'm working with an existing design I don't need to re-constrain everything as if I'm designing from scratch...
+
+### Silkscreen
+There will ALWAYS be differences in silkscreen legend after import, not the least because different CAD tools (Allegro vs. Altium) have different FONTS for such things. I use the Allegro free viewer to try and determine as closely as possible the right font and font size to use - and it comes out very close but Altium's sans-serif stroke font is a bit narrower than Allegro's. Also for some reason I did not get the NXP logo on the bottom of the board during the translation process... something on the Altium Importer didn't work right for it, and I'm not going to waste my time trying to re-draw it.
+
+### Variants
+I am sure, for a product as expensive as Cadence OrCAD/Allegro is, that NXP would have used a formal Design Variant for the populated vs. DNP parts. The schematic has a lot of "options" for power monitoring or bypassing power monitoring, as well as "just in case" zero-ohm resistors and DNP pullups in various locations. Instead of using a proper "feature" in CAD for this, they just put the parts in and have a comment "DNP" for non-fitted parts, along with semi-transparent rectangles:
+* grey means "add this zero-ohm resistor to bypass power monitoring"
+* pink means "optional feature or just-in-case-we-need-to-pullup-somthing"
+I have added proper design variants to the Altium project to cater to these, as it's more useful to me when generating a production BOM to have that automatically include or not-include the right parts.
